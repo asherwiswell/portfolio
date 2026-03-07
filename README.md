@@ -3,4 +3,4 @@
 
 Links to my portfolio projects
 
-1. Amazon EC2 instance deployment
+1. Amazon EC2 instance deployment https://github.com/asherwiswell/aws-ec2-project
